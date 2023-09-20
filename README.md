@@ -1,4 +1,4 @@
-# David's LeetCode Practice [![Build Status](https://travis-ci.org/daviddwlee84/LeetCode.svg?branch=master)](https://travis-ci.org/daviddwlee84/LeetCode) [![codecov](https://codecov.io/gh/daviddwlee84/LeetCode/branch/master/graph/badge.svg)](https://codecov.io/gh/daviddwlee84/LeetCode)
+# Shibli's LeetCode Practice
 
 ## Testing
 
