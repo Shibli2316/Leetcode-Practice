@@ -14,8 +14,8 @@ public:
         for(int i = 0; i < nums.size(); ){
             int pop1 = nums[nums.size()-1];
             int pop2 = nums[nums.size()-2];
-            cout << pop1 << endl;
-            cout << pop2 << endl;
+            // cout << pop1 << endl;
+            // cout << pop2 << endl;
             nums.pop_back();
             nums.pop_back();
             answer.push_back(pop2);
