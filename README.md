@@ -1,49 +1,5 @@
 # Shibli's LeetCode Practice
 
-## Testing
-
-* local dependencies
-  * `pytest`
-  * `pytest-cov`
-  * `coverage`
-
-### Correctness (based on [pytest](https://docs.pytest.org/en/latest/contents.html))
-
-Test all the units (in the main directory):
-
-`py.test -v`
-
-### Code Coverage
-
-`pytest --cov-report term --cov Python3/`
-
-> if successful you should see a new `.coverage` file
-
-`coverage report`
-
-* [Coverage.py — Coverage.py 4.3.4 documentation](https://coverage.readthedocs.io/en/coverage-4.3.4/index.html)
-* [Code Coverage Done Right | Codecov](https://codecov.io/)
-* [codecov/codecov-python: Python report uploader for Codecov](https://github.com/codecov/codecov-python)
-* [codecov/example-python: Python coverage example](https://github.com/codecov/example-python)
-* [Frequently Asked Questions - Where is the repository upload token found?](https://docs.codecov.io/docs/frequently-asked-questions#section-where-is-the-repository-upload-token-found-)
-* [Excluding code from coverage.py — Coverage.py 4.3.4 documentation](https://coverage.readthedocs.io/en/coverage-4.3.4/excluding.html)
-
-## Python3 Progress
-
-> Python 3.8
-
-* Virtual Environment
-  * [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
-  * [Creating a Virtual Environment – Real Python](https://realpython.com/lessons/creating-virtual-environment/)
-  * [venv — Creation of virtual environments — Python 3.9.0 documentation](https://docs.python.org/3/library/venv.html)
-* Install Latest Python
-  * [How to Install Python 3.8 on Ubuntu 18.04 | Linuxize](https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/)
-* Python Docker
-  * [Docker Hub](https://hub.docker.com/_/python)
-
-```sh
-docker pull python:3.8
-```
 
 ### Symbols
 
