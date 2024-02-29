@@ -7,7 +7,7 @@
   * Same: -
   * Easier: ▼
 * Important: *
-* Good: 👍
+* Good: 
 
 ### Abbreviation
 
